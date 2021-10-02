@@ -1,1 +1,1 @@
-web: bin/homework-serverdeployment
+web: bin/homeworkterakhirkali
