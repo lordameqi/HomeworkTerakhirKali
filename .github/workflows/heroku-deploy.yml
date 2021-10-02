@@ -10,5 +10,5 @@ jobs:
     - uses: akhileshns/heroku-deploy@v3.12.12
       with:
         heroku_api_key: ${{ secrets.HEROKU_APIKEY }}
-        heroku_app_name: "gentle-citadel-64238"
+        heroku_app_name: "pacific-wildwood-42298"
         heroku_email: "rachmadfadillahgforce96@gmail.com"
